@@ -1,5 +1,5 @@
 # pandas-challenge -Module 4.
-I created and manipulated Pandas DataFrames to analyze school and standardized test data. For this reason My folder contains three .pyipynb files and a .txt file:
+I created and manipulated Pandas DataFrames to analyze school and standardized test data. For this reason, my folder contains three .pyipynb files and a .txt file:
 1. PyCitySchools_starter : Instruction file.
 2. PyCitySchools_Analisys : Analysis how to find the answers for each assigments.
 3. PyCitySchools_checkpoints : Answers according to instructions.
